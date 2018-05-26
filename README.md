@@ -2,7 +2,7 @@
 🐢 A collection of awesome Machine Learning libraries, resources and shiny things about ACG.
 
 ## GAN
-* [二次元萌妹高清舞姿随心变，换装只需一瞬间 | 又是GAN立功了](https://mp.weixin.qq.com/s/Y8D0gr1ybQ48H0bDpPvD8w)
+* [二次元萌妹高清舞姿随心变，换装只需一瞬间](https://mp.weixin.qq.com/s/Y8D0gr1ybQ48H0bDpPvD8w)
 * [用GAN生成各种胖吉猫](https://mp.weixin.qq.com/s/H_EcHi9BRur214rktocGbg)
 
 
